@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning MS in Computer Software Engineering Student @Northeastern University
+- 📫 How to reach me: chen.jiamin3@northeastern.edu
 <!--
 **WendyZozo/WendyZozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
